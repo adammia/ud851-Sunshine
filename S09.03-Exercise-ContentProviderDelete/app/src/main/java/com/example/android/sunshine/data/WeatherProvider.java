@@ -25,7 +25,8 @@ import android.net.Uri;
 import android.support.annotation.NonNull;
 
 import com.example.android.sunshine.utilities.SunshineDateUtils;
-/** S09.03 TO DO ok!*/
+
+/** S09.03 TO DO Completed*/
 /**
  * This class serves as the ContentProvider for all of Sunshine's data. This class allows us to
  * bulkInsert data, query data, and delete data.
